@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Battleship.Battleship-task-build-classes-java.main" target="15" />
+      <module name="Battleship.Battleship-task-build-generated-sources-annotationProcessor-java.main" target="15" />
+      <module name="Battleship.Battleship-task-build-generated-sources-headers-java.main" target="15" />
+      <module name="Battleship.Battleship-task-build-reports-tests.main" target="15" />
+      <module name="Battleship.Battleship-task-build-test-results.main" target="15" />
+      <module name="Battleship.Battleship-task-build-tmp.main" target="15" />
+      <module name="Battleship.Battleship-task.main" target="15" />
+      <module name="Battleship.Topics-Custom_exceptions-Checked_exception_with_constructor.main" target="15" />
+      <module name="Battleship.Topics-Custom_exceptions-DriverNotReadyException.main" target="15" />
+      <module name="Battleship.Topics-Custom_exceptions-Exception_chaining.main" target="15" />
+      <module name="Battleship.Topics-Custom_exceptions-Handle_incorrect_inputs.main" target="15" />
+      <module name="Battleship.Topics-Custom_exceptions-Square_class.main" target="15" />
+      <module name="Battleship.Topics-Custom_exceptions-Theory.main" target="15" />
+      <module name="Battleship.Topics-Enums_in_Java-Currencies.main" target="15" />
+      <module name="Battleship.Topics-Enums_in_Java-Days_of_week.main" target="15" />
+      <module name="Battleship.Topics-Enums_in_Java-Theory.main" target="15" />
+      <module name="Battleship.Topics-Fields_and_methods_in_enum-Balance_management.main" target="15" />
+      <module name="Battleship.Topics-Fields_and_methods_in_enum-System_of_units.main" target="15" />
+      <module name="Battleship.Topics-Fields_and_methods_in_enum-Theory.main" target="15" />
+      <module name="Battleship.Topics-Input_streams-Byte_vs_character_input_streams.main" target="15" />
+      <module name="Battleship.Topics-Input_streams-Convert_to_bytes.main" target="15" />
+      <module name="Battleship.Topics-Input_streams-Reverse_input_text.main" target="15" />
+      <module name="Battleship.Topics-Input_streams-Theory.main" target="15" />
+      <module name="Battleship.Topics-Multidimensional_array-Create_cube.main" target="15" />
+      <module name="Battleship.Topics-Multidimensional_array-Indexing_rules.main" target="15" />
+      <module name="Battleship.Topics-Multidimensional_array-Multidimensional_array_features.main" target="15" />
+      <module name="Battleship.Topics-Multidimensional_array-Practical_applications.main" target="15" />
+      <module name="Battleship.Topics-Multidimensional_array-Printing_lengths_of_nested_arrays.main" target="15" />
+      <module name="Battleship.Topics-Multidimensional_array-Symmetric_matrix.main" target="15" />
+      <module name="Battleship.Topics-Multidimensional_array-Theory.main" target="15" />
+      <module name="Battleship.Topics-Scanning_the_input-Hiring_a_chef.main" target="15" />
+      <module name="Battleship.Topics-Scanning_the_input-Print_strings_in_the_reverse_order.main" target="15" />
+      <module name="Battleship.Topics-Scanning_the_input-Printing_strings_in_the_same_order.main" target="15" />
+      <module name="Battleship.Topics-Scanning_the_input-Reading_a_number.main" target="15" />
+      <module name="Battleship.Topics-Scanning_the_input-Theory.main" target="15" />
+      <module name="Battleship.Topics-The_for-loop-Determine_the_result.main" target="15" />
+      <module name="Battleship.Topics-The_for-loop-From_sum_to_product.main" target="15" />
+      <module name="Battleship.Topics-The_for-loop-Size_of_parts.main" target="15" />
+      <module name="Battleship.Topics-The_for-loop-Statements.main" target="15" />
+      <module name="Battleship.Topics-The_for-loop-The_sum_of_integers_from_a_to_b.main" target="15" />
+      <module name="Battleship.Topics-The_for-loop-Theory.main" target="15" />
+      <module name="Battleship.Topics-Throwing_exceptions-How_to_throw_an_exception.main" target="15" />
+      <module name="Battleship.Topics-Throwing_exceptions-Possible_declaration.main" target="15" />
+      <module name="Battleship.Topics-Throwing_exceptions-The_most_general_statement.main" target="15" />
+      <module name="Battleship.Topics-Throwing_exceptions-Theory.main" target="15" />
+      <module name="Battleship.Topics-Throwing_exceptions-Throw_an_IOException.main" target="15" />
+      <module name="Battleship.util.main" target="15" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
