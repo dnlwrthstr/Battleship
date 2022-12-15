@@ -32,6 +32,11 @@
       <module name="Battleship.Topics-Multidimensional_array-Printing_lengths_of_nested_arrays.main" target="15" />
       <module name="Battleship.Topics-Multidimensional_array-Symmetric_matrix.main" target="15" />
       <module name="Battleship.Topics-Multidimensional_array-Theory.main" target="15" />
+      <module name="Battleship.Topics-Output_streams-Convert_to_char_array.main" target="15" />
+      <module name="Battleship.Topics-Output_streams-OutputStream_class.main" target="15" />
+      <module name="Battleship.Topics-Output_streams-Theory.main" target="15" />
+      <module name="Battleship.Topics-Output_streams-Types_of_output_streams.main" target="15" />
+      <module name="Battleship.Topics-Output_streams-What_is_a_buffering.main" target="15" />
       <module name="Battleship.Topics-Scanning_the_input-Hiring_a_chef.main" target="15" />
       <module name="Battleship.Topics-Scanning_the_input-Print_strings_in_the_reverse_order.main" target="15" />
       <module name="Battleship.Topics-Scanning_the_input-Printing_strings_in_the_same_order.main" target="15" />

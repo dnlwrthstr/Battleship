@@ -1,0 +1,12 @@
+<h2>Secret message</h2>
+<html><body><p>The code below writes <code class="language-java">int</code>s one by one using <code class="language-java">void write(int b)</code> method, but the printed message doesn't contain any digits!  This happens because written numbers are converted to their char representation according to some rule.</p>
+<pre><code class="language-java">int[] message = new int[] {114, 101, 97, 100, 32, 97, 98, 111, 117, 116, 32, 65, 83, 67, 73, 73};
+
+ByteArrayOutputStream outputStream = new ByteArrayOutputStream();
+for (int code : message) {
+    outputStream.write(code);
+}
+
+System.out.println(outputStream.toString());</code></pre>
+<p>Run the code above and check an output message. It is the answer of the task. Follow an instruction hidden in the message to get more details about the coding rule applied here.</p>
+<p>Note that we have not closed <code class="language-java">ByteArrayOutputStream</code>. The stream doesn't use any resources except byte array in RAM, so its <code class="language-java">close</code> method does nothing and the stream doesn't need closing. Almost all other types of streams require closing their instances after work completion.</p></body></html>
